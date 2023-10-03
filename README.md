@@ -3,7 +3,7 @@
 
 ## Project Specifications:
 
-Pizza menu for Pizza's website created by React components. 
+Pizza menu component for Pizza's website created by React components. 
 
 ### Languages and Tools:
 <div align="center">  
